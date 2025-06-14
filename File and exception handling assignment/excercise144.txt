@@ -1,0 +1,8 @@
+Create a program for a Finite loop
+Create a program To count numbers in a list
+Create a program To genrate an account number
+Create a program To give birth
+Create a program To calculate displacement
+Create a program To calculate velocity
+Create a program To calculate acceleration
+Create a program To give customer's feedback
