@@ -1,4 +1,0 @@
-Name,Math,English,Science
-Alice,85,92,78
-Bob,78,85,90
-Charlie,92,88,85

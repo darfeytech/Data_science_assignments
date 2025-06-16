@@ -1,6 +1,0 @@
-Student,Average Grade
-Alice,85.0
-Bob,84.33
-Charlie,88.33
-Classaverage, Math = 85.0, English = 88.33, Science = 84.33
-    
